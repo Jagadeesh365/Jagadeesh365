@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jagadeesh365
-- 👀 I’m interested in WE DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning ANGULAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:gudipalligopireddy123@gmail.com
